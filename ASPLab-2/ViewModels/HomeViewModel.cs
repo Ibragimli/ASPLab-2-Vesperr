@@ -10,6 +10,8 @@ namespace ASPLab_2.ViewModels
     {
         public List<Services> Services { get; set; }
         public List<TestTimonal> testTimonals { get; set; }
+        public List<Client> Clients { get; set; }
+        public List<AboutUs> aboutUs { get; set; }
 
     }
 }
